@@ -1,10 +1,8 @@
 # Credit_card_UI
-This is a simple HTML and CSS project which contains files for a simple interactive profile card .
+This is a simple HTML and CSS project which contains files for a simple interactive Credit card and completely editable.
 
 How To use it ???
 
-Step 1 : Replace your image with the Photograph.jpg 
-Step 2 : Replace the file position of your image in the 13th line of index.html 
-Step 3 : Edit the name and job in the lines 16,17 .
+Step 1 : Replace the name and number you need
 
 Here you go you got it!!! Happy coding....
