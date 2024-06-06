@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+*
+{
+    margin      :0;
+    padding     :0;
+    box-sizing: border-box;
+    font-family :"Exo 2", sans-serif;
+}
+body
+{
+    min-height: 100vh;
+    background: lightblue;   
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+.container
+{
+    height: 260px;
+    width: 450px;
+    background: url(./back.jpg);
+    border-radius: 20px;
+    color: wheat;
+    padding: 25px;
+    box-shadow: 0 40px 50px black;
+}
+
+.leftend .logo
+{
+    height: 30px;
+    width: 50px;
+}
+.leftend .name
+{
+    font-size: 20px;
+    margin-left: 10px
+}
+header .chip
+{
+    height: 50px;
+    width: 60px;
+}
+.head
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.leftend
+{
+    display: flex;
+    align-items:center ;
+}
+.info
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.info .number
+{
+    margin-top: 10px;
+    font-size: 25px;
+}
+.info .cusname
+{
+    margin-top: 40px;
+    font-size: 20px;
+}
+.info .rightinfo
+{
+    margin-top: 70px;
+}
+.info .rightinfo .val
+{
+    font-size: 25px;
+}
+.info .rightinfo .des2
+{
+    margin-bottom: 5px;
+}
